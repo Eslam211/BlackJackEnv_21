@@ -1,2 +1,2 @@
 # BlackJackEnv_21
-An epsilon greedy algorithm to learn an agent to play BlackJackEnv game.
+An epsilon greedy algorithm to learn an agent to play BlackJackEnv game using matlab.
